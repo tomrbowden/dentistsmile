@@ -1,34 +1,19 @@
-- name: Britta Perry
+- name: Tom Bowden
   image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
+  email: tom@eventacular.com
+  phone:
 
-- name: Troy Barnes 
+- name: Matt Gillingham
   image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
+  email: matt@eventacular.com
+  phone:
 
-- name: Annie
+- name: Yuji Akaba
   image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
+  email: team@eventacular.com
+  phone:
 
-- name: Jeff Winger
+- name: This is You
   image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
-
-- name: Britta Perry
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
-
-- name: Troy Barnes
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
-
-- name: Annie
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
+  email: you@email.com
+  phone:

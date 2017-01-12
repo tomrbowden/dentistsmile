@@ -1,31 +1,39 @@
+# Image 1
 - image_thumb: gallery-small.jpg
   image_large: gallery-large.jpg
   image_alt: something meaningful
 
+# Image 2
 - image_thumb: gallery-small2.jpg
   image_large: gallery-large.jpg
   image_alt: something meaningful
 
+# Image 3
 - image_thumb: gallery-small.jpg
   image_large: gallery-large.jpg
   image_alt: something meaningful
 
+# Image 4
 - image_thumb: gallery-small2.jpg
   image_large: gallery-large.jpg
   image_alt: something meaningful
 
+# Image 5
 - image_thumb: gallery-small2.jpg
   image_large: gallery-large.jpg
   image_alt: something meaningful
 
+# Image 6
 - image_thumb: gallery-small.jpg
   image_large: gallery-large.jpg
   image_alt: something meaningful
 
+# Image 7
 - image_thumb: gallery-small2.jpg
   image_large: gallery-large.jpg
   image_alt: something meaningful
 
+# Image 8
 - image_thumb: gallery-small.jpg
   image_large: gallery-large.jpg
   image_alt: something meaningful
