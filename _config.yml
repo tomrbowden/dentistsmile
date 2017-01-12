@@ -12,7 +12,7 @@ hero:
     hero_description: Eventacular is a Tokyo-based startup company that is developing an online platform to help event organizers sell tickets to their events.
 
 # Contact form
-api_token: # Enter API token here
+api_token: f38d65b370b6c89ea94f68521464b03c
 
 # Contact info
 contact:
