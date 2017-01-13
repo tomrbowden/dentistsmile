@@ -1,19 +1,19 @@
 - name: Tom Bowden
-  image: team.jpg
+  image: team/tom-pic.jpg
   email: tom@eventacular.com
-  phone:
+  twitter: "@TomRBowden"
 
 - name: Matt Gillingham
   image: team.jpg
   email: matt@eventacular.com
-  phone:
+  twitter: "@gillygize"
 
 - name: Yuji Akaba
-  image: team.jpg
+  image: team/yuji-pic.jpg
   email: team@eventacular.com
-  phone:
+  twitter: "@YujiAkaba"
 
-- name: This is You
-  image: team.jpg
+- name: You
+  image: team/placeholder-pic.jpg
   email: you@email.com
-  phone:
+  twitter: "@YourTwitter"

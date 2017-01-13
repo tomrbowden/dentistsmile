@@ -16,7 +16,7 @@ layout: default
     <div class="container-fluid">
 
         <div class="col-sm-6 col-sm-offset-6 col-md-4 col-md-offset-8 form">
-            <h3><svg class="icon icon-envelope-o"><use xlink:href="#icon-envelope-o"></use></svg>Send us a message!</h3>
+            <h3><svg class="icon icon-envelope-o"><use xlink:href="#icon-envelope-o"></use></svg>Send us a message</h3>
             <form action="https://getsimpleform.com/messages?form_api_token={{ site.api_token }}" method="post">
                 <div class="form-field">
                     <input name="name" type="text" placeholder="Your name" required>
@@ -126,7 +126,7 @@ layout: default
                         </div>
                     </div>
                     <div class="media-body">
-                        <p><b>Our Team:</b> We have 3 founding members. Tom is from the UK, with a background in equity trading (SocGen, London) and as an iOS app producer (Mirai, Tokyo). Matt is from the US, with a background in software engineering (Tonchidot, GREE, Mediweb, in San Francisco and Tokyo), and organizer of the Tokyo iOS Meetup. Yuji is from Japan, with a background in engineering (Komatsu), management consulting (McKinsey), and venture capital, as well as being a best-selling author and frequent speaker at seminars.</p>
+                        <p><b>Our Team:</b> We have 3 founding members, with experience in product development, online marketing, event organizing, software engineering, and business strategy.</p>
                     </div>
                 </div>
             </div>
@@ -171,7 +171,7 @@ layout: default
             <div class="expandable-box-bottom">
                 <a href="mailto:{{ member.email }}" data-toggle="tooltip" data-placement="bottom" title="{{ member.email }}"><svg class="icon icon-envelope"><use xlink:href="#icon-envelope"></use></svg></a>
                 </a>
-                <a href="tel:{{ member.phone }}" data-toggle="tooltip" data-placement="bottom" title="{{ member.phone }}"><svg class="icon icon-phone"><use xlink:href="#icon-phone"></use></svg></a>
+                <a href="tel:{{ member.twitter }}" data-toggle="tooltip" data-placement="bottom" title="{{ member.twitter }}"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a>
                 </a>
             </div>
         </div>
@@ -179,6 +179,26 @@ layout: default
     </div>
 </div>
 <!-- End Our team -->
+
+<!-- Start Treatments2 -->
+<div id="treatments" class="treatments">
+    <div class="container-fluid">
+        <h2 class="section-title">Team Details</h2>
+
+        <div class="row">
+            {% for treatment in site.data.treatments2 %}
+                <div class="col-sm-6 col-md-4">
+                    <div class="icon-box">
+                        <svg class="icon {{ treatment.icon }}"><use xlink:href="#{{ treatment.icon }}"></use></svg>
+                        <h4>{{ treatment.title }}</h4>
+                        <p>{{ treatment.description }}</p>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+<!-- End Treatments2 -->
 
 <!-- Start Testimonials -->
 <div id="testimonials" class="testimonials parallax" style="background-image: url('{{ site.baseurl }}/img/{{ site.testimonials.testimonials_img }}');">
