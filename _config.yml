@@ -34,7 +34,7 @@ testimonials:
 map:
     zoom: 15
     address: Tokyo, Chiyoda-ku, Kioicho 1-2
-    address_details: img/eventacular-logo-light-bg@3x.png
+    address_details: img/eventacular-logo-tiny.png
 
 # Social settings
 facebook: https://www.facebook.com/eventacular
