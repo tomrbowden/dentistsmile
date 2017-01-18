@@ -1,39 +1,39 @@
 # Image 1
-- image_thumb: landing-page-small.jpg
-  image_large: landing-page.jpg
-  image_alt: something meaningful
+- image_thumb: slush-asia.jpg
+  image_large: slush-asia_large.jpg
+  image_alt: Slush Asia event in Tokyo 2016
 
 # Image 2
-- image_thumb: landing-page-small.jpg
-  image_large: landing-page.jpg
-  image_alt: something meaningful
+- image_thumb: matt-try-swift.jpg
+  image_large: matt-try-swift_large.jpg
+  image_alt: Matt speaking at try! Swift event in Tokyo 2016
 
 # Image 3
-- image_thumb: landing-page-small.jpg
-  image_large: landing-page.jpg
-  image_alt: something meaningful
+- image_thumb: try-swift-group.jpg
+  image_large: try-swift-group_large.jpg
+  image_alt: try! Swift event in Tokyo 2016
 
 # Image 4
-- image_thumb: landing-page-small.jpg
-  image_large: landing-page.jpg
-  image_alt: something meaningful
+- image_thumb: view-yahoo-lodge.jpg
+  image_large: view-yahoo-lodge_large.jpg
+  image_alt: View from Yahoo Lodge on 17th floor
 
 # Image 5
-- image_thumb: landing-page-small.jpg
-  image_large: landing-page.jpg
-  image_alt: something meaningful
+- image_thumb: tom-presenting.jpg
+  image_large: tom-presenting_large.jpg
+  image_alt: Tom presenting at Tokyo iOS Meetup in 2016
 
 # Image 6
-- image_thumb: landing-page-small.jpg
-  image_large: landing-page.jpg
-  image_alt: something meaningful
+- image_thumb: yahoo-lodge-canteen.jpg
+  image_large: yahoo-lodge-canteen_large.jpg
+  image_alt: Canteen area of Yahoo Lodge Tokyo
 
 # Image 7
-- image_thumb: landing-page-small.jpg
-  image_large: landing-page.jpg
-  image_alt: something meaningful
+- image_thumb: yahoo-lodge.jpg
+  image_large: yahoo-lodge_large.jpg
+  image_alt: Desk area at Yahoo Lodge Tokyo
 
 # Image 8
-- image_thumb: landing-page-small.jpg
-  image_large: landing-page.jpg
-  image_alt: something meaningful
+- image_thumb: yuji-presenting.jpg
+  image_large: yuji-presenting_large.jpg
+  image_alt: Yuji presenting

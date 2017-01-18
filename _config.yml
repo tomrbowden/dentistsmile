@@ -19,7 +19,7 @@ contact:
     phone:
     emergency:
     email: team@eventacular.com
-    address: Kioicho 1-3 17F, Chiyoda-ku<br />千代田区紀尾井町1-3 17F<br />Tokyo, Japan
+    address: Yahoo Lodge 17F<br />Tokyo Garden Terrace Kioicho<br />Kioicho 1-3, Chiyoda-ku<br />Tokyo, Japan
 
 # Opening hours
 monday_friday: 10:00 – 19:00
@@ -33,7 +33,7 @@ testimonials:
 # Map
 map:
     zoom: 15
-    address: 1-3 Kioichō, Chiyoda-ku, Tōkyō-to 102-8282
+    address: Tokyo, Chiyoda-ku, Kioicho 1-2
     address_details: img/eventacular-logo-light-bg@3x.png
 
 # Social settings
@@ -61,5 +61,5 @@ exclude: [
 ]
 
 # Theme Settings
-analytics:
+analytics: UA-10455567-16
 google_verification:
